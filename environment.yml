@@ -14,4 +14,5 @@ dependencies:
   - python=3.7.3=h5b0a415_0
   - requests=2.21.0=py37_1000
   - widgetsnbextension=3.4.2=py37_1000
+  - xlrd=1.2.0=py_0
 
