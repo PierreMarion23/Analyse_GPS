@@ -1,0 +1,17 @@
+name: engie
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - appmode=0.5.0=py37_1002
+  - beautifulsoup4=4.7.1=py37_1001
+  - bqplot=0.11.5=py_0
+  - ipyleaflet=0.10.1=py37_0
+  - ipywidgets=7.4.2=py_0
+  - notebook=5.7.8=py37_0
+  - numpy=1.16.2=py37h7fc5cc3_0
+  - pandas=0.24.2=py37hf484d3e_0
+  - python=3.7.3=h5b0a415_0
+  - requests=2.21.0=py37_1000
+  - widgetsnbextension=3.4.2=py37_1000
+
